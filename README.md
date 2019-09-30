@@ -1,5 +1,5 @@
 # BooksVault
-A project on designing the front-end of a second-hand books selling website. This was a non-academic, learning project.
+A project on designing the front-end of a second-hand books selling website. This is a non-academic, learning project.
 
 # Files:
 - booksvault.html: main page of the website
